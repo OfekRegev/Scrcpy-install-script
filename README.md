@@ -1,0 +1,1 @@
+# Scrcpy-install-script
